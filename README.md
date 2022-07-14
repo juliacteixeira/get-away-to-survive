@@ -10,6 +10,8 @@ Não restava dúvidas de que a Universidade seria seriamente atingida e um grupo
 
 Distribuídos pelas naves de aula da universidade, existem partes de um humanoide de vôo que se montadas no alto da torre de astronomia, poderiam servir como uma maneira de fuga do jovem grupo de amigos.
 A missão final deste jogo de aventura é coletar as partes desse humanóide e levá-las até o topo da torre de astronomia.
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Este projeto foi baseado no World of Zuul Bad
 
