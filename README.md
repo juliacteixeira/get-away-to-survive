@@ -1,3 +1,7 @@
+Projeto desenvolvido para a primeira lista de exercícios da Disciplina GAC106 - Práticas de Programação orientada a objetos no 1º semestre letivo de 2022 (14/07/2022) - lecionada pelo professor Prof. Julio César Alves (DAC - ICET https://julio.dac.ufla.br)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Este projeto foi baseado no World of Zuul Bad
 
 **World of Zuul** é um jogo de aventura muito simples, baseado em texto.
